@@ -1,2 +1,0 @@
-# SEFIBER
-Empresa de telecomunicaciones
